@@ -17,6 +17,7 @@ https://vi.wikipedia.org/wiki/Git_(ph%E1%BA%A7n_m%E1%BB%81m)
 https://blog.duyetdev.com/2015/04/git-va-cac-khai-niem-co-ban.html#.VubYfpBinQk
 - hướng dẫn & lưu ý khi cài đặt git: cứ next và để mọi thứ mặc định là được rồi
 2. cài đặt tortoiseGit:
+- download tại: https://tortoisegit.org/download/ chọn phiên bản thích hợp với máy tính mọi người đang dùng nhé, ở đây mình dùng bản 32bit
 - cũng cài đặt như bình thường, lúc chọn đống có liên quan đến git, gihub với smartgit nữa (lúc lựa chọn các tool sẽ cài đặt)
 3. cần đăng ký 1 tài khoản ở github.com
 - cung cấp email
