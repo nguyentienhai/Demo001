@@ -1,4 +1,4 @@
-hi
+﻿hi
 this is sample only
 
 I make some change
@@ -30,3 +30,4 @@ các trường hợp:
 - những người khác kết nối và lấy về
 - trường hợp bị mất project trên máy đấy, hoặc máy tính bị hỏng, bị trục trặc phải cài lại hdh hoặc phần mềm git, tortoiseGit ...
 
+đẹp zai đẹp zai
